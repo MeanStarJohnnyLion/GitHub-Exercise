@@ -21,6 +21,7 @@ struct ContentView: View {
                 .fontWeight(.black)
         }
         .padding()
+        
         .foregroundColor(.mint)
     }
 }
